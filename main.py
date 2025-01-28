@@ -1,7 +1,7 @@
 x = 10 #initialization
 x = 23 #assignment
 y =0 #declaration
-z = ( x + y)/x + (78%3_) 
+z = ( x + y)/x + (78%3) 
 name = "bobby" #string
 age = 12 #integer
 height = 6.5 # float
