@@ -1,6 +1,6 @@
 x = 10 #initialization
 x = 23 #assignment
-y #declaration
+y =0 #declaration
 z = ( x + y)/x + (78%3_) 
 name = "bobby" #string
 age = 12 #integer
@@ -123,7 +123,7 @@ num4 = num2.copy()
 
 thistuple = ("apple", "banana", "cherry", "apple", "cherry")
 print(thistuple); # ('apple', 'banana', 'cherry', 'apple', 'cherry')
-print(thistuple[0); # ‘apple'
+print(thistuple[0]); # ‘apple'
 
 data = [ 20, 3, 20, 42, 2, 3, 10, 32, 2]
 
